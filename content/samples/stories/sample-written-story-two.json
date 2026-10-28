@@ -1,0 +1,11 @@
+{
+  "slug": "sample-written-story-two",
+  "title": "Sample story with a content advisory",
+  "excerpt": "Placeholder entry showing how a gentle content advisory appears before a story begins.",
+  "body": "SAMPLE CONTENT: placeholder text only, not a real person's account.\n\nWhen a contributor or moderator marks a story as containing potentially distressing material, a gentle advisory is shown above the story and in listings, so readers can choose when and whether to read.\n\nThe layout is otherwise identical to any other story.",
+  "categories": ["unanswered-questions"],
+  "displayName": "Shared anonymously",
+  "publishedAt": "2026-01-10T09:00:00Z",
+  "contentAdvisory": true,
+  "consentConfirmed": true
+}

@@ -1,0 +1,55 @@
+{
+  "_help": "status: 'available' (shown as offered), 'planned' (shown clearly as not yet available), 'hidden' (not shown). Only mark a service 'available' if you can deliver it today.",
+  "services": [
+    {
+      "id": "individual-support",
+      "title": "Individual psychological support",
+      "status": "available",
+      "summary": "One-to-one sessions with a psychologist, paced around you, to make space for grief, guilt, anger, questions and everything in between.",
+      "focus": ["Complicated or complex grief", "Guilt, shame and unanswered questions", "Anxiety, low mood and sleep difficulties following loss", "Relationships and family changes after a death"]
+    },
+    {
+      "id": "assessment",
+      "title": "Psychological assessment",
+      "status": "available",
+      "summary": "A structured evaluation, offered only when clinically helpful, to clarify what you are experiencing and what kind of support may fit.",
+      "focus": ["Support accurate understanding", "Guide planning for care", "Provide professional documentation when needed"]
+    },
+    {
+      "id": "psychoeducation",
+      "title": "Grief psychoeducation",
+      "status": "available",
+      "summary": "Guided learning about grief after suicide: what is common, what is not a sign that something is wrong, and practical ways to look after yourself.",
+      "focus": ["Understanding grief reactions", "Emotional awareness and regulation", "Healthy routines and boundaries", "Talking with family and children"]
+    },
+    {
+      "id": "peer-support",
+      "title": "Peer support and community connection",
+      "status": "planned",
+      "summary": "Opportunities to meet others who understand, in moderated and safe settings.",
+      "focus": []
+    },
+    {
+      "id": "support-groups",
+      "title": "Support groups",
+      "status": "planned",
+      "summary": "Facilitated groups for people bereaved by suicide.",
+      "focus": []
+    },
+    {
+      "id": "family-materials",
+      "title": "Educational materials for families and friends",
+      "status": "available",
+      "summary": "Guides for people who want to support someone bereaved by suicide. See the Resources section.",
+      "focus": [],
+      "link": "/resources"
+    },
+    {
+      "id": "referrals",
+      "title": "Referral pathways",
+      "status": "available",
+      "summary": "When someone needs urgent, medical or specialised care beyond Bloom's scope, we will help point them to appropriate services.",
+      "focus": []
+    }
+  ]
+}

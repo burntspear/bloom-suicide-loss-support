@@ -1,0 +1,27 @@
+{
+  "_help": "Crisis and emergency contacts. Entries are only shown on the website when \"verified\" is true. Call each number yourself before setting verified to true, and re-check at least every six months. Never publish a number you have not confirmed.",
+  "intro": "Bloom is a bereavement support service. It is not an emergency or crisis service and cannot respond to someone in immediate danger.",
+  "emergencyNote": "If you or someone near you is in immediate danger, contact your local emergency services right now.",
+  "regions": [
+    {
+      "code": "KE",
+      "name": "Kenya",
+      "contacts": [
+        {
+          "name": "Befrienders Kenya",
+          "phone": "+254 722 178 177",
+          "channels": "Phone, SMS, WhatsApp",
+          "hours": "",
+          "note": "Free, confidential emotional support.",
+          "verified": false,
+          "verifyNote": "Number appears on befrienders.org and findahelpline.com, but published opening hours differ between sources. Call to confirm hours, then set verified to true and fill in hours."
+        }
+      ]
+    }
+  ],
+  "directories": [
+    { "name": "Find A Helpline: Kenya", "url": "https://findahelpline.com/countries/ke", "note": "A directory of free helplines in Kenya." },
+    { "name": "Befrienders Kenya (Befrienders Worldwide)", "url": "https://befrienders.org/find-support-now/befrienders-kenya/", "note": "Details for Befrienders Kenya." },
+    { "name": "Find A Helpline: other countries", "url": "https://findahelpline.com", "note": "Helplines in many other countries." }
+  ]
+}

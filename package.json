@@ -1,0 +1,34 @@
+{
+  "name": "bloom-suicide-loss-support",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bloom: compassionate support after suicide loss. Server-rendered Node site with secure donations, moderated stories, video and gallery.",
+  "license": "UNLICENSED",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=22.13"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "SHOW_SAMPLE_CONTENT=true NODE_ENV=development node --watch server.js",
+    "build:css": "tailwindcss -c tailwind.config.js -i src/styles/input.css -o public/css/site.css --minify",
+    "build": "npm run build:css",
+    "test": "node --test --test-force-exit --test-concurrency=1 tests/*.test.js",
+    "hash-password": "node scripts/hash-password.js",
+    "launch-check": "node scripts/launch-check.js",
+    "check-links": "node scripts/check-links.js"
+  },
+  "dependencies": {
+    "express": "^4.22.3",
+    "express-rate-limit": "^7.5.1",
+    "helmet": "^8.3.0",
+    "nodemailer": "^10.2.1"
+  },
+  "devDependencies": {
+    "@fontsource-variable/fraunces": "^5.3.0",
+    "@fontsource-variable/inter": "^5.3.0",
+    "@fontsource-variable/work-sans": "^5.3.0",
+    "tailwindcss": "^3.4.19"
+  }
+}

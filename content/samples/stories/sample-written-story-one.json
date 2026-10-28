@@ -1,0 +1,11 @@
+{
+  "slug": "sample-written-story-one",
+  "title": "Sample story: how a longer written story will look",
+  "excerpt": "This is placeholder text used to preview layout. It is not a real person's experience.",
+  "body": "SAMPLE CONTENT: This entry only appears while SHOW_SAMPLE_CONTENT is turned on. It is not a real story, and it does not describe a real person.\n\nA published story appears here in a comfortable reading column, with generous line spacing and room to breathe. Paragraphs are separated clearly so that a long account never feels like a wall of text.\n\n## A heading inside a story\n\nContributors can use short headings when they wish. The page also shows who shared the story, when it was published, any content advisory, and related stories or resources at the end.\n\n> A short pull quote can sit on its own line, like this one.\n\nWhen real, approved stories are added, delete the sample files, or leave SHOW_SAMPLE_CONTENT turned off in production.",
+  "categories": ["finding-connection", "remembering"],
+  "displayName": "Sample contributor",
+  "publishedAt": "2026-01-15T09:00:00Z",
+  "contentAdvisory": false,
+  "consentConfirmed": true
+}

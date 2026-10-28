@@ -1,0 +1,27 @@
+[
+  {
+    "slug": "sample-video-file",
+    "title": "Sample video (layout preview)",
+    "description": "A short placeholder clip that shows how a self-hosted video with captions plays. It is not a real testimony.",
+    "type": "file",
+    "src": "/media/samples/sample-video.webm",
+    "poster": "/images/gallery/sample-poster.svg",
+    "captions": "/media/samples/sample-video.en.vtt",
+    "captionsLang": "en",
+    "durationLabel": "0:04",
+    "displayName": "Sample",
+    "contentAdvisory": false,
+    "categories": ["finding-connection"]
+  },
+  {
+    "slug": "sample-video-unavailable",
+    "title": "Sample: a video that is no longer available",
+    "description": "Shows the respectful message displayed when a contributor has withdrawn a video or the link is broken.",
+    "type": "file",
+    "src": "",
+    "status": "unavailable",
+    "displayName": "Sample",
+    "contentAdvisory": true,
+    "categories": []
+  }
+]

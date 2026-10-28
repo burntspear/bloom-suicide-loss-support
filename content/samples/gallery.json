@@ -1,0 +1,52 @@
+[
+  {
+    "id": "sample-1",
+    "src": "/images/gallery/sample-1.svg",
+    "alt": "Sample placeholder: soft green and clay shapes forming a doorway arch",
+    "caption": "Sample placeholder image",
+    "credit": "Placeholder",
+    "type": "artwork",
+    "width": 800,
+    "height": 1000
+  },
+  {
+    "id": "sample-2",
+    "src": "/images/gallery/sample-2.svg",
+    "alt": "Sample placeholder: concentric circles in sage and sand",
+    "caption": "Sample placeholder image",
+    "credit": "Placeholder",
+    "type": "memorial",
+    "width": 800,
+    "height": 800
+  },
+  {
+    "id": "sample-3",
+    "src": "/images/gallery/sample-3.svg",
+    "alt": "Sample placeholder: a simple leaf line drawing on warm sand",
+    "caption": "Sample placeholder image",
+    "credit": "Placeholder",
+    "type": "artwork",
+    "width": 800,
+    "height": 600
+  },
+  {
+    "id": "sample-4",
+    "src": "/images/gallery/sample-4.svg",
+    "alt": "Sample placeholder: soft gradient horizon",
+    "caption": "Sample placeholder image",
+    "credit": "Placeholder",
+    "type": "remembrance",
+    "width": 800,
+    "height": 1000
+  },
+  {
+    "id": "sample-5",
+    "src": "/images/gallery/sample-5.svg",
+    "alt": "Sample placeholder: overlapping circles in clay and forest tones",
+    "caption": "Sample placeholder image",
+    "credit": "Placeholder",
+    "type": "artwork",
+    "width": 800,
+    "height": 800
+  }
+]

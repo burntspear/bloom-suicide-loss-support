@@ -1,0 +1,70 @@
+{
+  "_help": "Edit this file to change site-wide text and contact details. Leave a value as an empty string to hide it. Run `npm run launch-check` before going live.",
+  "brand": {
+    "name": "Bloom",
+    "fullName": "Bloom: Psychology with Hannah",
+    "tagline": "Compassionate support after suicide loss",
+    "mission": "Providing compassionate psychological support, understanding, and connection for people navigating life after losing someone they love to suicide.",
+    "description": "Bloom offers compassionate psychological support, understanding and connection for people navigating life after losing someone they love to suicide."
+  },
+  "contact": {
+    "email": "",
+    "phone": "",
+    "whatsapp": "",
+    "address": "",
+    "hours": "",
+    "responseTime": "We aim to reply within a few working days. We are not an emergency service."
+  },
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "youtube": ""
+  },
+  "organisation": {
+    "_note": "Only fill these in with details you can document. The site never claims registration, accreditation or charitable status unless you add it here.",
+    "legalName": "",
+    "registrationStatement": "",
+    "practitionerCredentials": ""
+  },
+  "about": {
+    "practitionerName": "Hannah",
+    "portraitImage": "",
+    "portraitAlt": "",
+    "bio": "",
+    "bioPlaceholderNote": "The practitioner biography has not been added yet."
+  },
+  "donations": {
+    "usesStatement": "Gifts help Bloom keep its support, resources and storytelling spaces open and thoughtfully run. Bloom does not publish donation totals, and a gift does not guarantee any outcome for any person.",
+    "howGiftsAreUsed": [
+      {
+        "title": "Keeping support accessible",
+        "text": "Contributing towards the cost of support sessions and groups, so cost is less of a barrier to people who need them."
+      },
+      {
+        "title": "Resources and education",
+        "text": "Producing and reviewing guides for bereaved people and the family and friends who want to support them."
+      },
+      {
+        "title": "Stories, with care",
+        "text": "Hosting, moderating and protecting the written, video and photo stories that contributors choose to share."
+      }
+    ],
+    "needsConfirmation": true
+  },
+  "seo": {
+    "defaultImage": "/images/social-card.png"
+  },
+  "privacy": {
+    "_note": "Draft retention periods are suggestions only. Confirm or change them, have the notice reviewed by a qualified legal adviser, then set legallyReviewed to true.",
+    "legallyReviewed": false,
+    "controllerName": "",
+    "privacyContact": "",
+    "retention": {
+      "contactMessages": "up to 12 months after we last replied",
+      "storySubmissions": "until you withdraw them or we decline them (declined submissions are deleted within 90 days)",
+      "donationRecords": "for the period required by accounting and tax rules that apply to Bloom (to be confirmed)",
+      "serverLogs": "up to 30 days"
+    }
+  }
+}

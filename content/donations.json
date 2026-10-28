@@ -1,0 +1,8 @@
+{
+  "_help": "Suggested amounts are in MAJOR units (e.g. 1000 = KES 1,000). Add or remove currencies freely, but a currency only works if your payment provider account supports it. The environment variable DONATION_DEFAULT_CURRENCY overrides defaultCurrency.",
+  "defaultCurrency": "KES",
+  "currencies": {
+    "KES": { "symbol": "KES", "suggested": [500, 1000, 2500, 5000], "min": 100, "max": 1000000 },
+    "USD": { "symbol": "$", "suggested": [10, 25, 50, 100], "min": 2, "max": 10000 }
+  }
+}
